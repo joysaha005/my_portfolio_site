@@ -16,6 +16,9 @@ body{
     max-width: 1200px;
     margin: auto;
 } */
+.row{
+    margin-right:0px;
+}
 .menu_bar h1{
     font-family: 'Kaushan Script', cursive;
     color: red;
