@@ -9,7 +9,7 @@
 }
 body{
     font-family: 'Poppins', sans-serif;
-    background-color: #EAF6F6;
+    /* background-color: #ffffff; */
 }
 /* .container{
     width: 90%;
@@ -51,11 +51,11 @@ h2{
 .menu_bar{
     width: 100%;
     padding: 10px 0px;
-    background-color:#DFDFDE;
+    background-color:#000000;
 }
 a{
     padding: 10px 20px;
-    color: black;
+    color: rgb(255, 255, 255);
     
 }
 li{
@@ -65,7 +65,7 @@ li{
 
 .left_text{
     padding: 50px;
-    border: 2px solid;
+    /* border: 2px solid; */
     width: 50%;
     margin-top: 110px;
 }
